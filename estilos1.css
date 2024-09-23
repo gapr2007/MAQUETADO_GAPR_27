@@ -1,0 +1,65 @@
+#contenedor{
+	width: 90%;
+	margin:  auto;
+	background-color: #7d7d7d;
+}
+#encabezado{
+	text-align: center;
+	background-color: #EFD80E;
+	align-self: center;
+	color: white;
+	}
+#menu1{
+	background-color: #646464;
+	text-align: center;
+	padding: 1%;
+	margin-bottom: 2%;
+}
+#derecha{
+	float: right;
+	background-color: #B4B3A8;
+	width: 80%;
+	color: white;
+	font-family: 'Georgia', serif;
+}
+
+#derecha img{
+	padding: 5%;
+}
+
+#derecha p{
+	padding-left: 6%;
+	padding-top: 1%;
+	padding-bottom: 1%; 
+	padding-right: 6%;
+}
+
+#izquierda{
+	background-color: #646464;
+	float: left;
+	width: 20%;
+	text-align: center;
+}
+#piepagina{
+	clear: both;
+	background-color: #8f0884;
+}
+
+#menu1{
+text-align: center;
+}
+
+#menu1 a{
+	margin: 40px;
+}
+
+a{
+	color: white;
+	font-size: 18px;
+}
+
+#piepagina{
+	text-align: center;
+	color: white;
+	font-size: 30px;
+}
